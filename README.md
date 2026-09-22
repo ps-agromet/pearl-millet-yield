@@ -87,7 +87,6 @@ These are documented in the code as it was used for the paper and have not been 
 3. Soil organic carbon is passed to AquaCrop as organic matter, without the ×1.724 conversion.
 4. Only the 0–5 cm soil layer is used, for the whole profile.
 
-The regression model reported in the paper (OLS with district-clustered standard errors) is not part of these notebooks. Its input table is `output/compiled data.xlsx` from notebook 03.
 
 ## Citation
 
