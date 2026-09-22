@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "Pearl millet yield simulation for Rajasthan districts using AquaCrop-OSPy"
+type: software
+authors:
+  - family-names: Swami
+    given-names: Priyanka
+license: MIT
+date-released: 2026-09-22
+keywords:
+  - AquaCrop
+  - pearl millet
+  - sowing date
+  - Rajasthan
+  - crop modelling

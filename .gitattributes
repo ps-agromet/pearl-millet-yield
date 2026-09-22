@@ -1,0 +1,10 @@
+# Keep data files byte-for-byte as supplied (no line-ending conversion)
+data/** -text
+*.tif  binary
+*.xls  binary
+*.xlsx binary
+*.docx binary
+*.png  binary
+*.ipynb text eol=lf
+*.md    text eol=lf
+*.yml   text eol=lf

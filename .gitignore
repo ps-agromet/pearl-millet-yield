@@ -1,0 +1,21 @@
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Generated results (re-created by the notebooks)
+output/*
+Graphs/*
+maps/*
+!output/.gitkeep
+!Graphs/.gitkeep
+!maps/.gitkeep
+
+# OS / Office clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+*.lock
